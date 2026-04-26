@@ -4,4 +4,4 @@ Un logiciel de réservation de voyages développé en C# permettant aux utilisat
 
 <br>
 
-<img src="asset/monstermon.png" alt="monstermon" width="800">
+<img src="asset/reservation-csharp.png" alt="reservation-csharp" width="800">
